@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshit
 
-<!--
-**HarshitPandeyCode/HarshitPandeyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student passionate about Computer Science, Artificial Intelligence, and Cybersecurity
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* ⚡ C & C++
+* 🧩 Data Structures & Algorithms
+* 🗄️ SQL & Databases
+* 🤖 Artificial Intelligence
+* 🌐 HTML, CSS & JavaScript
+* 🍶 Flask
+* 🌍 Computer Networking
+* 🔒 Cybersecurity
+
+📚 Always learning. Always building. 🚀
+
